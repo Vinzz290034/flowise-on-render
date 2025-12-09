@@ -14,6 +14,6 @@ services:
     value: 3000
   - key: GROQ_API_KEY
     value: ${GROQ_API_KEY}
-  - key: CORS_ORIGINS
+  - key: CORS_ORIGIN
     value: https://my-portfolio-sepia-eta-66.vercel.app
 
