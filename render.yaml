@@ -13,7 +13,7 @@ services:
   - key: PORT
     value: 3000
   - key: GROQ_API_KEY
-    value: aec866f5-5a62-44cd-81d4-af532db235af
+    value: ${GROQ_API_KEY}
   - key: CORS_ORIGINS
     value: https://my-portfolio-sepia-eta-66.vercel.app
 
